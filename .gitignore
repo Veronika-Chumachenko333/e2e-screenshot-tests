@@ -1,0 +1,18 @@
+# Залежності
+node_modules/
+package-lock.json
+
+# Результати тестів
+test-results/
+playwright-report/
+test-results/
+*.log
+
+# Тимчасові файли
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Снапшоти (опціонально - якщо хочете зберігати їх на GitHub)
+# tests/**/*-snapshots/
+
